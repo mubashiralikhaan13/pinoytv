@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://asiantv.wiki/">Asian TV</a>
+          Welcome to Vercel Trick By <a href="https://alcashzone.com">Alcash Zone</a>
         </h1>
 
         <p className={styles.description}>
