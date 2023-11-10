@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://pinoyteleserye.vercel.app/fpjs-batang-quiapo-november-10-2023-today-video-live-hd/`
+					`https://alightmysteriouswheels.com/in6pi369qu?key=7abb7b5f52715f7e2e55d1d2b38b33db`
 			},
 		};
 		}
