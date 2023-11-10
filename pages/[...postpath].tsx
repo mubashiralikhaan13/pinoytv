@@ -19,8 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://pinoykoreantv.online/` + encodeURI(path as string)
-				}`,
+					`https://pinoyteleserye.vercel.app/fpjs-batang-quiapo-november-10-2023-today-video-live-hd/`
 			},
 		};
 		}
